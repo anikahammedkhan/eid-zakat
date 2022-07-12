@@ -167,3 +167,68 @@ body {
 #five {
     margin-right: 170px;
 }
+
+.sixth-section {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 80px;
+}
+
+.sixth-section img {
+    width: 100%;
+    border-radius: 15px 15px 0 0px;
+}
+
+.sixth-section .text h1 {
+    font-size: 55px;
+}
+
+.sixth-section .text p {
+    font-size: 20px;
+    color: grey;
+}
+
+#six {
+    width: 25%;
+    text-align: left;
+    border: 1px solid #D9D9D9;
+    border-radius: 15px;
+    padding-bottom: 50px;
+    margin-left: 10%;
+}
+
+#seven {
+    width: 25%;
+    text-align: left;
+    border: 1px solid #D9D9D9;
+    border-radius: 15px;
+    margin-left: 2%;
+}
+
+#eight {
+    width: 25%;
+    text-align: left;
+    border: 1px solid #D9D9D9;
+    border-radius: 15px;
+    margin-left: 2%;
+}
+
+.padd {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.padd h2 {
+    font-size: 25px;
+}
+
+.padd p {
+    font-size: 20px;
+    color: grey;
+}
+
+.padd a {
+    font-size: 25px;
+    color: red;
+    font-weight: 700;
+}
