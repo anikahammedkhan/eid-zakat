@@ -144,3 +144,26 @@ body {
     border-radius: 10px;
     padding: 20px;
 }
+
+.fifth-section {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.fifth-section img {
+    width: 95%;
+    border-radius: 15px;
+}
+
+
+#three {
+    margin-left: 170px;
+}
+
+#four {
+    margin-left: 0px;
+}
+
+#five {
+    margin-right: 170px;
+}
